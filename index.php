@@ -59,7 +59,7 @@
                 Nostrum et ut optio suscipit eos quisquam et. Nulla molestiae 
                 voluptates hic et accusantium occaecati recusandae veniam cum.
                 </p>
-                <a href="about.html" class="btn btn--primary btn--about">More About Hesed</a>
+                <a href="about.php" class="btn btn--primary btn--about">More About Us</a>
             </div>
 
             <div class="column large-half medium-full">
@@ -155,7 +155,7 @@
                     <li class="events-list__meta-location">Cenon Pavilion 181 Bakori Road, PW, Opp Allington Hotel, Kubwa, Abuja.</li>
                 </ul>
             </div> <!-- end events-list__item -->
-            <!--<div class="column events-list__item">
+            <div class="column events-list__item">
                 <h3 class="display-1 events-list__item-title">
                     <a href="#0" title="">Prayer Meeting.</a>
                 </h3>
@@ -168,10 +168,10 @@
                 </p>
                 <ul class="events-list__meta">
                     <li class="events-list__meta-date">Saturday, July 27, 2019</li>
-                    <li class="events-list__meta-time">6:00PM - 8:30PM</li>
                     <li class="events-list__meta-location">1600 Amphitheatre Parkway, Mt. View</li>
                 </ul>
-            </div--> <!-- end events-list__item -->
+	    </div> 
+	<!-- end events-list__item -->
          <!-- end events-list__item -->
 
         </div> <!-- end events-list -->
