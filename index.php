@@ -156,27 +156,48 @@
                 </ul>
             </div> <!-- end events-list__item -->
             <div class="column events-list__item">
-                <h3 class="display-1 events-list__item-title">
-                    <a href="#0" title="">Prayer Meeting.</a>
-                </h3>
-                <p>
-                Laborum distinctio minima doloribus reiciendis aut aliquid. 
-                Deleniti est adipisci ut quo ducimus eum ratione voluptas. 
-                Voluptatem tenetur rem ratione velit ut. Repudiandae atque 
-                perspiciatis est similique rerum nam qui iusto minus. Sapiente 
-                porro dolores consequatur optio animi aut facere.
-                </p>
-                <ul class="events-list__meta">
-                    <li class="events-list__meta-date">Saturday, July 27, 2019</li>
-                    <li class="events-list__meta-location">1600 Amphitheatre Parkway, Mt. View</li>
-                </ul>
-	    </div> 
+        
+                <div class="event-image">
+                    <img src="images/todays.jpg" alt="Event 1 Image">
+                </div>
+        
+            </div>
 	<!-- end events-list__item -->
          <!-- end events-list__item -->
 
         </div> <!-- end events-list -->
 
     </section> <!-- end s-events -->
+
+        <!-- Carousel Section -->
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+        <img class="d-block w-100" src="image1.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+        <img class="d-block w-100" src="image2.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+        <img class="d-block w-100" src="image3.jpg" alt="Third slide">
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+    </div>
+    <!-- End of Carousel Section -->
+
 
 
     <!-- series
