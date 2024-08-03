@@ -5,7 +5,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>Hesed</title>
+    <title>Embassy of God</title>
     <meta name="description" content="">
     <meta name="author" content="">
 

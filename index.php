@@ -15,8 +15,8 @@
                 </h1>
 
                 <div class="hero-content__buttons">
-                    <a href="events.html" class="btn btn--stroke">Upcoming Events</a>
-                    <a href="about.html" class="btn btn--stroke">About Us</a>
+                    <a href="events.php" class="btn btn--stroke">Upcoming Events</a>
+                    <a href="about.php" class="btn btn--stroke">About Us</a>
                 </div>
             </div> <!-- end hero-content__text -->
 
@@ -51,7 +51,7 @@
         <div class="row row-y-center about-content">
 
             <div class="column large-half medium-full">
-                <h3 class="subhead">Welcome to Hesed</h3>
+                <h3 class="subhead">Welcome to Embassy of God</h3>
                 <p class="lead">
                 Vero autem et officiis officia sint in odio in iusto. 
                 Blanditiis tempore ipsa saepe quaerat quas sed. Ut velit 
